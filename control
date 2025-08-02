@@ -1,0 +1,12 @@
+Package: com.lilciro.LCSoundcloud
+Name: LCSoundcloud
+Author: LilCiro
+Description: An indispensable tweak for an enhanced SoundCloud experience.
+Depiction: https://lilciro.github.io/depictions/LCSoundcloud.html
+SileoDepiction: https://lilciro.github.io/depictions/sileo/LCSoundcloud.json
+Icon: https://lilciro.github.io/depictions/assets/images/LCSoundcloud-icon.png
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.11)
+Maintainer: LilCiro <lilciro@pm.me>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
